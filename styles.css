@@ -127,12 +127,9 @@ p {
   text-align: center;
 }
 
-.post-author img {
+.post-author img, .about-author img {
   border-radius: 50%;
+  width: 200px;
+  height: 200px;
 }
 
-.about-author img {
-width: 200px;
-height: 200px;
-vertical-align: middle;
-}
